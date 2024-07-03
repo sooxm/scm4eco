@@ -96,6 +96,8 @@ For the command line option:
 
 Barrage, Lint, and William Nordhaus. 2024. “Policies, Projections, and the Social Cost of Carbon: Results from the DICE-2023 Model.” Proceedings of the National Academy of Sciences 121 (13): e2312030121. https://doi.org/10.1073/pnas.2312030121.
 
+Su, X., Takahashi, K., Yokohata, T., Tanaka, K., Fujimori, S., Takakura, J., Yamaguchi, R., and Xiong, W.: Developing an integrated assessment model to explore optimal cost-benefit paths for Shared Socioeconomic Pathways scenarios, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-1640, 2024.
+
 Su, Xuanming, Kiyoshi Takahashi, Shinichiro Fujimori, Tomoko Hasegawa, Katsumasa Tanaka, Etsushi Kato, Hideo Shiogama, Toshihiko Masui, and Seita Emori. 2017. “Emission pathways to achieve 2.0°C and 1.5°C climate targets.” Earth’s Future 5 (6): 592–604. https://doi.org/10.1002/2016EF000492.
 
-Su, Xuanming, Hideo Shiogama, Katsumasa Tanaka, Shinichiro Fujimori, Tomoko Hasegawa, Yasuaki Hijioka, Kiyoshi Takahashi, and Jingyu Liu. 2018. “How do climate-related uncertainties influence 2 and 1.5 C pathways?” Sustainability Science 13 (2): 291–99. https://doi.org/10.1007/s11625-017-0525-2.
+Su, Xuanming, Hideo Shiogama, Katsumasa Tanaka, Shinichiro Fujimori, Tomoko Hasegawa, Yasuaki Hijioka, Kiyoshi Takahashi, and Jingyu Liu. 2018. “How do climate-related uncertainties influence 2 and 1.5°C pathways?” Sustainability Science 13 (2): 291–99. https://doi.org/10.1007/s11625-017-0525-2.
